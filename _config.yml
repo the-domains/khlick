@@ -1,0 +1,28 @@
+name: Khlick
+favicon: null
+layout_spectrum: 0.35634490894153714
+typography_spectrum: 0.9263114070054144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2879155455157161
+  lightness: 0.1429085531271994
+  saturation: 0.5402506021782756
+  rhythmicContrast: 0.5201230347156525
+purpose: []
