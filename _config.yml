@@ -1,19 +1,11 @@
 name: Khlick
-favicon: null
 layout_spectrum: 0.35634490894153714
 typography_spectrum: 0.9263114070054144
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FF6700'
@@ -26,3 +18,10 @@ color:
   saturation: 0.5402506021782756
   rhythmicContrast: 0.5201230347156525
 purpose: []
+title: Photographic works by Khris Griffis
+author:
+  name: khris griffis
+  url: khlick.com
+  email: khris@khlick.com
+content_rating:
+  adult: false
